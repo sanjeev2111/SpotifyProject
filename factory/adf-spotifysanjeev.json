@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotifysanjeev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "156a6894-2357-47a8-a982-bf60ed71b4f8",
+		"tenantId": "e2128e8f-1d50-4907-909f-b096187a9b72"
+	}
+}
